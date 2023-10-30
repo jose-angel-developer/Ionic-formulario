@@ -1,0 +1,7 @@
+{
+  "name": "formulario",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
